@@ -91,7 +91,7 @@
                             <div class="service-entry">
                                 <h3>Sistemas electrónicos</h3>
                                 <p>Proyectamos y diseñamos la electrónica que cumpla la funcionalidad que pida junto a sus especificaciones.</p>
-                                <a class="btn read-more" href="#0">Más Información</a>
+                               
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                                 <h3>Modelado 3D</h3>
                                 <p>Diseñamos carcazas, estructuras funcionales a un producto junto a los parámetros que usted especifique.</p>
                                 <p>En caso que sea de Argentina, también imprimimos el trabajo para usted.</p>
-                                <a class="btn read-more" href="#0">Más Información</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                             <div class="service-entry">
                                 <h3>Programación de Software</h3>
                                 <p>Implementamos desde páginas web hasta sistemas embedidos.</p>
-                                <a class="btn read-more" href="#0">Más Información</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                                 <h3>Diseño PCB</h3>
                                 <p>A partir de la electrónica ya sea adjunta por usted o realizado por nosotros, diseñamos la placa electrónica funcional al proyecto.</p>
                                 <p>En caso que sea de Argentina, también la fabricamos para usted.</p>
-                                <a class="btn read-more" href="#0">Más Información</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -177,14 +177,14 @@
                                 <div class="quotes-icon">
                                     <i class="icon-quotes-left"></i>
                                 </div>
-                                <p>Awesome theme! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus incidunt possimus eveniet aperiam, minus deleniti iure ipsa praesentium amet, labore voluptatum fugit earum, porro non sequi sint soluta reprehenderit ad?</p>
+                                <p>Este emprendimiento es ideal para todo aquel que desee iniciar un proyecto y cuente con un presupuesto bajo.</p>
                                 <h4>-Juan F Curletto</h4>
                                 </div><!-- End of item -->
                                 <div class="item client-carousel-item"><!-- Start of item -->
                                     <div class="quotes-icon">
                                         <i class="icon-quotes-left"></i>
                                     </div>
-                                    <p>The good times are for those who take action. The7 is a simple and easy to use template for creative people. Download this theme and give it a try!</p>
+                                    <p>En Instatronic trabajamos también remoto para todas las partes del mundo. ¡Absolutamente nadie se queda atrás!</p>
                                     <h4>-Facundo Farcy</h4>
                                     </div><!-- End of item -->
                                 
